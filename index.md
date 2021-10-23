@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 
@@ -5,8 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-name.md %}
-
+{% include 02-image.md %}
 
 <br>
 
@@ -19,6 +19,3 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
-<br>
-
-
