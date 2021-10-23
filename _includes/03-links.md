@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Twitter](https://twitter.com/bash333r_).
+
+[Github](https://github.com/basheerbk)
